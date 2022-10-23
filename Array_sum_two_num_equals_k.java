@@ -1,4 +1,4 @@
-package hii;
+
 
 public class Array_sum_two_num_equals_k {
 

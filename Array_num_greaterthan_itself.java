@@ -1,4 +1,4 @@
-package hii;
+
 
 public class Array_num_greaterthan_itself
 {

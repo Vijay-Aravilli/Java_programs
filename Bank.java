@@ -1,4 +1,4 @@
-package hii;
+
 class Accountdetails{
 	public String name;
 	public String Pass;

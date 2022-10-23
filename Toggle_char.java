@@ -1,4 +1,4 @@
-package hii;
+
 public class Toggle_char {
 
 	public static void main(String[] args) {

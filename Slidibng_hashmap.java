@@ -1,4 +1,4 @@
-package hii;
+
 import java.util.*;
 
 public class Slidibng_hashmap {

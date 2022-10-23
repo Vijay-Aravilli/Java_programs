@@ -1,4 +1,4 @@
-package hii;
+
 
 public class traverse_diagonals {
 

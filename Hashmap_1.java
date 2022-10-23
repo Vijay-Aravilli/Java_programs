@@ -1,5 +1,3 @@
-package hii;
-
 import java.util.*;
 public class Hashmap_1 {
 

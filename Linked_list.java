@@ -1,4 +1,4 @@
-package hii;
+
 class Node{
 	int data;
 	Node next;

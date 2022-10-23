@@ -1,4 +1,4 @@
-package hii;
+
 import java.util.*;
 
 public class Contigous_sum_k {
